@@ -1,0 +1,12 @@
+sdesc: "Python module to rebuild a abstract syntax tree (AST)"
+ldesc: "Provides a common base representation of Python source code for
+projects such as pychecker, pyreverse, pylint. It provides a
+compatible representation which comes from the `_ast` module. The
+module rebuilds the generated tree by recursively walking down the AST
+and building an extended ast (let's call it astng ;). The new node
+classes have additional methods and attributes for different usages.
+They include some support for static inference and local name scopes.
+Furthermore, astng builds partial trees by inspecting living objects."
+category: Python
+requires: python
+

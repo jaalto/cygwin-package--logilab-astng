@@ -1,0 +1,3 @@
+tag1: python-logilab-astng
+  http://packages.debian.org/unstable/python-logilab-astng pregexp:orig.tar.gz file:logilab-astng_0.23.1.orig.tar.gz new: x:
+

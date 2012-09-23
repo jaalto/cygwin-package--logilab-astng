@@ -9,4 +9,3 @@ They include some support for static inference and local name scopes.
 Furthermore, astng builds partial trees by inspecting living objects."
 category: Python
 requires: python
-

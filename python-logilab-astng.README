@@ -28,6 +28,7 @@ Canonical download:
 
 Version control repository:
   http://www.logilab.org/repository/38905
+  http://hg.logilab.org/logilab/astng
   hg clone http://hg.logilab.org/logilab/astng
 
 Mailing list:

@@ -1,5 +1,5 @@
 To: cygwin-announce@cygwin.com
-Subject: New package: python-logilab-astng 0.23.1-1 -- Python module to rebuild a abstract syntax tree (AST)
+Subject: New package: python-logilab-astng 0.23.1-2 -- Python module to rebuild a abstract syntax tree (AST)
 --text follows this line--
 
 PACKAGE DESCRIPTION
@@ -20,7 +20,8 @@ Furthermore, astng builds partial trees by inspecting living objects.
 CHANGES SINCE LAST RELEASE
 ==========================
 
-See changes at http://hg.logilab.org/logilab/astng
+- Built for Python 2.7
+- See changes at http://hg.logilab.org/logilab/astng
 
 INSTALL OR UPGRADE NOTES
 ========================
